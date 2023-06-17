@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap);.App{background-image:url(/static/media/background.5fc571ccf7c195807c05.png);background-position:50%;background-size:cover;color:#000;min-height:100vh;overflow:hidden}.App,.messages{display:flex;flex-direction:column}.messages{overflow-y:scroll;scrollbar-width:none}.notification-badge{display:inline-block;position:relative}.badge{background-color:red;border-radius:50%;color:#fff;padding:4px 8px;position:absolute;right:-8px;top:-8px}
+/*# sourceMappingURL=main.f6d598ae.css.map*/
